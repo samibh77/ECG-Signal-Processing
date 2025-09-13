@@ -1,0 +1,5 @@
+../../Middlewares/ST/touchgfx/framework/include/platform/driver/button/ButtonController.hpp:48:18:virtual void touchgfx::ButtonController::reset()	1
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/TouchGFX/target/KeySampler.hpp:53:13:touchgfx::KeySampler::~KeySampler()	1
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/TouchGFX/target/KeySampler.cpp:45:6:virtual void touchgfx::KeySampler::init()	1
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/TouchGFX/target/KeySampler.cpp:50:6:virtual bool touchgfx::KeySampler::sample(uint8_t&)	2
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/TouchGFX/target/KeySampler.hpp:53:13:virtual touchgfx::KeySampler::~KeySampler()	1

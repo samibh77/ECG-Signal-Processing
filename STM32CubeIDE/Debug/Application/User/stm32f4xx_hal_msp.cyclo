@@ -1,0 +1,17 @@
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Core/Src/stm32f4xx_hal_msp.c:67:6:HAL_MspInit	1
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Core/Src/stm32f4xx_hal_msp.c:92:6:HAL_CRC_MspInit	2
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Core/Src/stm32f4xx_hal_msp.c:115:6:HAL_CRC_MspDeInit	2
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Core/Src/stm32f4xx_hal_msp.c:137:6:HAL_DMA2D_MspInit	2
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Core/Src/stm32f4xx_hal_msp.c:163:6:HAL_DMA2D_MspDeInit	2
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Core/Src/stm32f4xx_hal_msp.c:188:6:HAL_DSI_MspInit	2
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Core/Src/stm32f4xx_hal_msp.c:227:6:HAL_DSI_MspDeInit	2
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Core/Src/stm32f4xx_hal_msp.c:257:6:HAL_I2C_MspInit	2
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Core/Src/stm32f4xx_hal_msp.c:301:6:HAL_I2C_MspDeInit	2
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Core/Src/stm32f4xx_hal_msp.c:332:6:HAL_LTDC_MspInit	3
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Core/Src/stm32f4xx_hal_msp.c:371:6:HAL_LTDC_MspDeInit	2
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Core/Src/stm32f4xx_hal_msp.c:396:6:HAL_QSPI_MspInit	2
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Core/Src/stm32f4xx_hal_msp.c:452:6:HAL_QSPI_MspDeInit	2
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Core/Src/stm32f4xx_hal_msp.c:488:6:HAL_SPI_MspInit	4
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Core/Src/stm32f4xx_hal_msp.c:574:6:HAL_SPI_MspDeInit	2
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Core/Src/stm32f4xx_hal_msp.c:742:6:HAL_SDRAM_MspInit	2
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Core/Src/stm32f4xx_hal_msp.c:851:6:HAL_SDRAM_MspDeInit	2

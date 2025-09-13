@@ -1,0 +1,11 @@
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:881:19:HAL_RCCEx_PeriphCLKConfig	32
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:1167:6:HAL_RCCEx_GetPeriphCLKConfig	1
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:1217:10:HAL_RCCEx_GetPeriphCLKFreq	4
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:2809:6:HAL_RCCEx_SelectLSEMode	2
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:2846:19:HAL_RCCEx_EnablePLLI2S	5
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:2929:19:HAL_RCCEx_DisablePLLI2S	3
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:2959:19:HAL_RCCEx_EnablePLLSAI	5
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:3033:19:HAL_RCCEx_DisablePLLSAI	3
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:3186:19:HAL_RCC_DeInit	13
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:3377:19:HAL_RCC_OscConfig	60
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:3752:6:HAL_RCC_GetOscConfig	3

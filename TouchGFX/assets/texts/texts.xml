@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.25.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_YP64" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_RUWK" Alignment="Right" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_9FXO" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_DNZ7" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">BPM: &lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_9DNE" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">BACK</Translation>
+      </Text>
+      <Text Id="__SingleUse_1MNM" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_7O8R" Alignment="Right" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_UBI9" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Raw&#10;ECG Signal</Translation>
+      </Text>
+      <Text Id="__SingleUse_1J82" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">BACK</Translation>
+      </Text>
+      <Text Id="__SingleUse_JIYS" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_CQVO" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">BACK</Translation>
+      </Text>
+      <Text Id="__SingleUse_ILTX" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">BPM Signal</Translation>
+      </Text>
+      <Text Id="__SingleUse_K7U2" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Preprocessed &#10;ECG Signal</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZGTG" Alignment="Right" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WidgetWildcardCharacters="-., 0123456789" />
+    <Typography Id="Large" Font="ariali.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="-., 0123456789" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>

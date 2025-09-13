@@ -1,0 +1,17 @@
+../../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:37:18:virtual void touchgfx::Presenter::activate()	0	static
+../../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:47:18:virtual void touchgfx::Presenter::deactivate()	0	static
+../../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:52:13:touchgfx::Presenter::~Presenter()	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:11:13:ModelListener::~ModelListener()	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:17:18:virtual void ModelListener::UpdateGraph(float)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:18:18:virtual void ModelListener::UpdateGraphRaw(float)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:19:18:virtual void ModelListener::UpdateGraphBPM(float)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::UpdateBPMText(int)	0	static
+../../TouchGFX/gui/include/gui/screen4_screen/Screen4Presenter.hpp:28:13:Screen4Presenter::~Screen4Presenter()	0	static
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/TouchGFX/gui/src/screen4_screen/Screen4Presenter.cpp:10:6:virtual void Screen4Presenter::activate()	0	static
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/TouchGFX/gui/src/screen4_screen/Screen4Presenter.cpp:15:6:virtual void Screen4Presenter::deactivate()	0	static
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/TouchGFX/gui/src/screen4_screen/Screen4Presenter.cpp:20:6:virtual void Screen4Presenter::UpdateGraphBPM(float)	8	static
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/TouchGFX/gui/src/screen4_screen/Screen4Presenter.cpp:26:6:virtual void Screen4Presenter::UpdateBPMText(int)	8	static
+../../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:52:13:virtual touchgfx::Presenter::~Presenter()	8	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:11:13:virtual ModelListener::~ModelListener()	8	static
+../../TouchGFX/gui/include/gui/screen4_screen/Screen4Presenter.hpp:28:13:virtual Screen4Presenter::~Screen4Presenter()	8	static
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/TouchGFX/gui/src/screen4_screen/Screen4Presenter.cpp:4:1:Screen4Presenter::Screen4Presenter(Screen4View&)	0	static

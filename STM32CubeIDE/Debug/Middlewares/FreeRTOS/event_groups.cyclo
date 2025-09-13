@@ -1,0 +1,14 @@
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c:665:6:vEventGroupClearBitsCallback	3
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c:657:6:vEventGroupSetBitsCallback	9
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c:93:21:xEventGroupCreateStatic	3
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c:145:21:xEventGroupCreate	2
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c:311:13:xEventGroupWaitBits	21
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c:461:13:xEventGroupClearBits	3
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c:490:13:xEventGroupClearBitsFromISR	1
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c:503:13:xEventGroupGetBitsFromISR	1
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c:519:13:xEventGroupSetBits	9
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c:191:13:xEventGroupSync	11
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c:613:6:vEventGroupDelete	5
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c:708:13:xEventGroupSetBitsFromISR	1
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c:723:14:uxEventGroupGetNumber	2
+F:/TouchGFX/Projects/P1/ECG_PROJECT_F469I_DISCO/main_backup/PFA/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c:745:7:vEventGroupSetNumber	1

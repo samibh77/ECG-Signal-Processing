@@ -1,0 +1,4 @@
+../Application/User/TouchGFX/App/LIB.cpp:102:1:void __static_initialization_and_destruction_0(int, int)	8	static
+../Application/User/TouchGFX/App/LIB.cpp:30:6:void setup()	240	static
+../Application/User/TouchGFX/App/LIB.cpp:93:6:void loop()	8	static
+../Application/User/TouchGFX/App/LIB.cpp:102:1:cpp)	8	static
