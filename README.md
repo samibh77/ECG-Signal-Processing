@@ -9,7 +9,7 @@ The developed architecture employs two STM32 boards:
 - **STM32F469I-DISCO**: Acts as the **master controller** and provides a **graphical user interface (GUI)** for visualization.  
 - **STM32H7**: Dedicated to **ECG signal processing** tasks.  
 
-Communication between the two modules is implemented via **SPI PROTOCOL**, ensuring fast and efficient data transfer.
+Communication between the two modules is implemented via **SPI Protocol**, ensuring fast and efficient data transfer.
 
 ## ⚙️ Key Features
 - Real-time ECG signal acquisition and visualization  
